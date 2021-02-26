@@ -1,6 +1,6 @@
 
 Day 1: fundamental questions/baics questions:
-------------------------------------------
+
 
 what is the op?
 ------------
